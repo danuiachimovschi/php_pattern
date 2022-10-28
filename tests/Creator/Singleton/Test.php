@@ -5,7 +5,7 @@ namespace Tests\Creator\Singleton;
 use PHPUnit\Framework\TestCase;
 use App\Creator\Singleton\Singleton;
 
-class SingletonTest extends TestCase
+class Test extends TestCase
 {
     /**
      * @test
