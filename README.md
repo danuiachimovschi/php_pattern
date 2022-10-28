@@ -1,4 +1,4 @@
-<img align="center" width="350px" src="php.png" alt="PHP img" style="width:100%;height:100%"/></a>
+<img align="center" src="php.png" alt="PHP img" style="width:350px;"/></a>
 <h1 align="center">
   PHP Pattern for Web Developer
 </h1>
