@@ -15,6 +15,6 @@ class Test extends TestCase
         $firstObj = Singleton::instance();
         $secondObj = Singleton::instance();
 
-        $this->assertEquals($firstObj, $secondObj);
+        $this->assertSame($firstObj, $secondObj);
     }    
 }
