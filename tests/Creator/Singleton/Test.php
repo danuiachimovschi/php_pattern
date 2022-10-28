@@ -5,7 +5,7 @@ namespace Tests\Creator\Singleton;
 use PHPUnit\Framework\TestCase;
 use App\Creator\Singleton\Singleton;
 
-class SingletonTest extends TestCase
+class Test extends TestCase
 {
     /**
      * @test
@@ -15,6 +15,6 @@ class SingletonTest extends TestCase
         $firstObj = Singleton::instance();
         $secondObj = Singleton::instance();
 
-        $this->assertEquals($firstObj, $secondObj);
+        $this->assertSame($firstObj, $secondObj);
     }    
 }

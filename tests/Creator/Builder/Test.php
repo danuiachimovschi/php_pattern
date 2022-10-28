@@ -10,7 +10,7 @@ use App\Creator\Builder\Products\SecondProduct;
 
 
 
-class BuilderTest extends TestCase
+class Test extends TestCase
 {
     /**
      * @test
