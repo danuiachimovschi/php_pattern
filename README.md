@@ -7,7 +7,7 @@
 ## ⚡️ Quick start
 First, clone this repo :) 
 ```bash
-git clone https://github.com/danuiachimovschi/tdd.git
+git clone https://github.com/danuiachimovschi/php_pattern.git
 ```
 
 Install Composer 
