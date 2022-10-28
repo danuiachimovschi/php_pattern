@@ -1,4 +1,3 @@
-<img align="center" src="php.png" alt="PHP img" style="width:350px;"/></a>
 <h1 align="center">
   PHP Pattern for Web Developer
 </h1>
@@ -22,4 +21,4 @@ vendor/bin/phpunit tests --color
 ```
 
 Let's go ! ;)
-Don`t forget to like this Repository if is helpfully :two_hearts:
+Don`t forget to like this repository if is helpfully :two_hearts:
