@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests\Creator\Builder;
 
 use PHPUnit\Framework\TestCase;
@@ -7,8 +9,6 @@ use App\Creator\Builder\Builder;
 use App\Creator\Builder\Director;
 use App\Creator\Builder\Products\Product;
 use App\Creator\Builder\Products\SecondProduct;
-
-
 
 class Test extends TestCase
 {
