@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace App\Creator\Singleton;
 
 /* Singleton pattern is anti-pattern becouse is creates gloabal variables that can be accessed 

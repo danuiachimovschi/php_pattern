@@ -1,5 +1,7 @@
 <?php 
 
+declare(strict_types=1);
+
 namespace App\Creator\Builder\Products;
 
 use App\Creator\Builder\Interfaces\AbleSkeleton;
