@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Structor\Facade;
+namespace App\Structor\Facade\Interfaces;
 
 interface SystemInterface
 {
