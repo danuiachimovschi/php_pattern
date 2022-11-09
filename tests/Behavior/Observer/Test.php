@@ -42,7 +42,7 @@ class Test extends TestCase
     public function detach_event_from_observer()
     {
         $this->subject->notify();
-
+        
         $this->subject->detach($this->observer);
         $this->subject->notify();
 
